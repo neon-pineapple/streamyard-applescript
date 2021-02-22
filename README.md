@@ -19,3 +19,15 @@ Other commands, like displaying a banner, require you to edit a variable at the 
 To use these scripts with the original Steram Deck software from Elgato, you'll need the following plugin:
 
 https://github.com/mushoo/streamdeck-applescript/releases
+
+
+## Warranty
+These script sare provided as-is and without any warranty.
+
+Commercial support may be available for these scripts by contacting [Neon Pineapple](https://neonpineapple.live).
+
+## License
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
